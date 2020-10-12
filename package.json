@@ -1,0 +1,21 @@
+{
+    "name": "graphql-apollo-boilerplate",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon src"
+    },
+    "keywords": [],
+    "author": "Lennert De Ryck",
+    "license": "ISC",
+    "dependencies": {
+        "apollo-server": "^2.18.1",
+        "dotenv": "^8.2.0",
+        "graphql": "^15.3.0",
+        "mongoose": "^5.10.6"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
